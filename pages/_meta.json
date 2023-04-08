@@ -1,0 +1,18 @@
+{
+  "index": "Introduction",
+  "another": {
+    "title": "Another Page",
+    "display": "hidden"
+  },
+  "about": {
+    "title": "About",
+    "type": "page",
+    "display": "hidden"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://iris.to/thesamecat",
+    "newWindow": true
+  }
+}
